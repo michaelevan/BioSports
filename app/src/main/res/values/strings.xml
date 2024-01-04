@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BioSports</string>
+    <string name="sports_name">name</string>
+    <string name="detail">detail</string>
+    <string name="details">details</string>
+    <string name="favourite">favorites</string>
+    <string name="user_received">Ini halaman User</string>
+    <string name="user">User</string>
+    <string name="detail_received">detail</string>
+    <string name="Michael">Michael Evan</string>
+    <string name="Email">Michale@dicoding.com</string>
+</resources>
